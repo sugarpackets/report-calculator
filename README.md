@@ -1,0 +1,1 @@
+Wanted to automate counting how many times a location or person (col. h) conducted an event (col. I) for annual reporting purposes. This was intended to accept Microsoft Forms results output spreadsheets.

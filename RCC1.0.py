@@ -1,4 +1,4 @@
-#Risk and Compliance Calculator, developed by Brandon Price, Safety and Infection Control Coordinator, Brevard Health Alliance, 2024.
+#Risk and Compliance Calculator, developed by sugarpackets.
 #Users are free to recreate, modify, and distribute this software unless my company eventually tells me it's theirs idk/idc.
 #Users may need to ask IT to install python and libraries for this to work:
 #pip install pandas openpyxl
